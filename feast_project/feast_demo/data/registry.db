@@ -1,0 +1,50 @@
+
+V
+8
+customerCustomer identifier"customer_idJ
+feast_demo
+ÂÁºÀÈŸÅRÂÁºÀÈŸÅR
+?
+!
+__dummy"
+__dummy_idJ
+feast_demo
+ÂÁºÀ€ŠÔRÂÁºÀ€ŠÔR"$902118c9-c82d-43af-86dc-0459d6dcdbc9*ÂÁºÀ°ˆˆË2á
+¥
+transaction_features
+feast_democustomer"
+transaction_amount"
+merchant_category"
+transaction_count*
+teamtransactions2€ÎÚ:€event_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquet@b
+customer_id7
+ÂÁºÀ é•RÂÁºÀĞæ¢
+Â§œ¿èÔùZÂÁºÀÀ‹úZ2¡
+å
+customer_features
+feast_democustomer"
+age"
+city*
+team	customers2€ç„:zevent_timestampZdata/customers.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/customers.parquet@b
+customer_id7
+ÂÁºÀ°ì®RÂÁºÀ¸ĞıÊ
+Â§œ¿èÔùZÂÁºÀÀ‹úZ:Õ
+¶
+ml_features
+feast_demoª
+transaction_features
+transaction_amount
+merchant_category
+transaction_countBLevent_timestampZdata/transactions.parquet¢data/transactions.parquetn
+customer_features
+age
+cityBFevent_timestampZdata/customers.parquet¢data/customers.parquet
+ÂÁºÀèíßRÂÁºÀèíßRbevent_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquetª
+feast_demob‡event_timestampZdata/customers.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/customers.parquetª
+feast_demoz2
+
+feast_demo$ba69b152-85da-49d8-b81c-fc00c61f2e13Š*
+
+
+feast_demo
+ÂÁºÀ êëQÂÁºÀ êëQ

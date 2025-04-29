@@ -1,15 +1,15 @@
 
-V
+W
 8
 customerCustomer identifier"customer_idJ
-feast_demo
-ÂÁºÀÈŸÅRÂÁºÀÈŸÅR
-?
+feast_demo
+ÂÁºÀÈŸÅRëŸÁÀˆ¬’®
+@
 !
 __dummy"
 __dummy_idJ
-feast_demo
-ÂÁºÀ€ŠÔRÂÁºÀ€ŠÔR"$902118c9-c82d-43af-86dc-0459d6dcdbc9*ÂÁºÀ°ˆˆË2á
+feast_demo
+ÂÁºÀ€ŠÔRëŸÁÀà¸ ®"$1500fa32-1261-451a-9e5a-daa9cf1d8433*ëŸÁÀ¨ÇŒ2¼
 ¥
 transaction_features
 feast_democustomer"
@@ -17,18 +17,24 @@ feast_democustomer"
 merchant_category"
 transaction_count*
 teamtransactions2€ÎÚ:€event_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquet@b
-customer_id7
-ÂÁºÀ é•RÂÁºÀĞæ¢
-Â§œ¿èÔùZÂÁºÀÀ‹úZ2¡
+customer_id‘
+ÂÁºÀ é•RëŸÁÀ ®±è
+Â§œ¿èÔùZÂÁºÀÀ‹úZ
+É‚£¿à÷±ÅÉœÁÀ ¶²Å
+…£¿ µ›·ŸÁÀàó›·
+ë…£¿ÈĞë¯ëŸÁÀ ‡ì¯2ü
 å
 customer_features
 feast_democustomer"
 age"
 city*
 team	customers2€ç„:zevent_timestampZdata/customers.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/customers.parquet@b
-customer_id7
-ÂÁºÀ°ì®RÂÁºÀ¸ĞıÊ
-Â§œ¿èÔùZÂÁºÀÀ‹úZ:Õ
+customer_id‘
+ÂÁºÀ°ì®RëŸÁÀ¸¼‘Œ
+Â§œ¿èÔùZÂÁºÀÀ‹úZ
+É‚£¿à÷±ÅÉœÁÀ ¶²Å
+…£¿ µ›·ŸÁÀàó›·
+ë…£¿ÈĞë¯ëŸÁÀ ‡ì¯:Ö
 ¶
 ml_features
 feast_demoª
@@ -38,9 +44,9 @@ feast_demoª
 transaction_countBLevent_timestampZdata/transactions.parquet¢data/transactions.parquetn
 customer_features
 age
-cityBFevent_timestampZdata/customers.parquet¢data/customers.parquet
-ÂÁºÀèíßRÂÁºÀèíßRbevent_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquetª
-feast_demob‡event_timestampZdata/customers.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/customers.parquetª
+cityBFevent_timestampZdata/customers.parquet¢data/customers.parquet
+ÂÁºÀèíßRëŸÁÀ€¥±®b‡event_timestampZdata/customers.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/customers.parquetª
+feast_demobevent_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquetª
 feast_demoz2
 
 feast_demo$ba69b152-85da-49d8-b81c-fc00c61f2e13Š*

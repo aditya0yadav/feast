@@ -1,4 +1,4 @@
-# feast_operations.py - corrected version
+# feast_operations.py - corrected version with offline store access
 
 import pandas as pd
 from datetime import datetime, timedelta
@@ -20,7 +20,6 @@ def run_feast_operations():
     print("Applying feature definitions...")
     store.apply([customer, transaction_features, customer_features, ml_feature_service])
     
-    # Rest of the code remains the same...
     # Materialize the latest features to the online store
     print("Materializing features to online store...")
     store.materialize(
@@ -63,6 +62,15 @@ def run_feast_operations():
     for key, value in online_features.items():
         print(f"{key}: {value}")
     
+    # Access raw offline store data
+    print("\nAccessing offline store data directly...")
+    offline_store_path = "./data/customers.parquet"
+    if os.path.exists(offline_store_path):
+        offline_data = pd.read_parquet(offline_store_path)
+        print(offline_data.head())
+    else:
+        print("Offline store file not found.")
+
     return store, training_df, online_features
 
 if __name__ == "__main__":
